@@ -1,0 +1,26 @@
+#blue{
+    background-color: darkblue;
+    margin: 0;
+    padding: 0;
+    width: 200px;height: 200px;
+
+}
+#red{
+    position: left;
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    width: 200px;height: 200px; border: solid 10px; border-radius: 60px;
+}
+
+#yellow{
+    align-items: center;
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    width: 200px;height: 200px;
+    border: solid 20px;
+}
+body{
+    margin: 0px;
+}
